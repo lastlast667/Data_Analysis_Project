@@ -24,8 +24,10 @@ Thumbs.db
 
 # 临时文件/数据文件（按需忽略）
 *.csv
+!data/house_sales.csv
 *.sql
 *.txt
+!requirements.txt
 *.zip
 *.rar
 *.7z
